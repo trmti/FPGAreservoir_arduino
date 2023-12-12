@@ -1,0 +1,15 @@
+-----Parameters-----
+num_nodes: 499
+activation: tanh
+minmax_w_in: (-0.1, 0.1)
+w_res: 1.03
+K: 2
+bias: 0
+seed: 0
+init: 1000
+train: 3000
+eval: 1000
+total: 5000
+
+-----Results-----
+NRMSE: -5.9550481201119704e+16

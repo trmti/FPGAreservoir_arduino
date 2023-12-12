@@ -1,0 +1,18 @@
+〇 内容物
+- 等価シミューレーションコード
+	下記のpdfの2.4の評価に相当する部分のpythonコード・・・注1
+- RR_board_Archi_rev1.1.pdf
+         リングリザバーアーキテクチャ解説rev1.1.pdf（公開用に準備していた暫定版）
+
+
+注1：コード関連
+general
+	src
+		reservoir.py
+		test.py  ・・・NARMA10のテスト
+
+	README.md
+	requriemts.txt
+
+手順：README.mdを起動してライブラリをインストールした後に
+test.pyを起動する
